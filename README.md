@@ -1,6 +1,5 @@
-# js-linked-data-1
-Weekly sessions and final project for "An Introduction to JavaScript and Linked Data"
+# An interactive map for citizens & city councils to explore unemployment data from Münster between 2010 and 2014 in a pleasant way
 
 License (source code only): Apache License
 
-Example: http://jsld.mamo-net.de/
+Example: http://giv-oct2.uni-muenster.de/ijald/g1/index.htm
