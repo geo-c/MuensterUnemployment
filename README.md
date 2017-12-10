@@ -1,4 +1,4 @@
-# An interactive map to explore unemployment data from Münster
+# A map to explore unemployment data from Münster
 
 License (source code only): Apache License
 
