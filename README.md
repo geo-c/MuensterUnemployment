@@ -1,4 +1,4 @@
-# An interactive map for citizens & city councils to explore unemployment data from Münster between 2010 and 2014 in a pleasant way
+# An interactive map to explore unemployment data from Münster
 
 License (source code only): Apache License
 
